@@ -115,6 +115,9 @@ body {
     opacity: 1;
     text-align: left;
 }
+.v157_10:hover {
+    color: rgb(233 157 62);
+}
 .v157_17 {
     width: 35px;
     color: rgba(255,255,255,1);
@@ -188,6 +191,9 @@ body {
     opacity: 1;
     text-align: left;
 }
+.v158_95:hover {
+    color: rgb(217 170 136);
+}
 .v158_96 {
     width: 4px;
     height: 4px;
@@ -224,6 +230,9 @@ body {
     font-size: 14px;
     opacity: 1;
     text-align: left;
+}
+.v175_130:hover {
+    color: rgb(164 132 122);
 }
 .v175_131 {
     width: 4px;
