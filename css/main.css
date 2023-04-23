@@ -1,0 +1,288 @@
+* {
+    box-sizing: border-box;
+    overflow: hidden;
+}
+body {
+    background-color: black;
+    position: relative;
+    height: 100%;
+}
+.v1_2 {
+    width: 100%;
+    height: 1080px;
+    background: rgba(253,255,255,1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+.v4_6 {
+    width: 100%;
+    height: 100%;
+    background: url("../images/20220628----_1138 (1).JPG");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: black;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+.v156_2 {
+    width: 272px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 371px;
+    left: 35px;
+    font-family: League Spartan;
+    font-weight: bolder;
+    font-size: 70px;
+    opacity: 1;
+    text-align: left;
+    text-shadow: 0px 2px, 2px 0px, 2px 2px;
+}
+.v156_3 {
+    width: 272px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 435px;
+    left: 35px;
+    font-family: League Spartan;
+    font-weight: bolder;
+    font-size: 70px;
+    opacity: 1;
+    text-align: left;
+    text-shadow: 0px 2px, 2px 0px, 2px 2px;
+}
+.v156_4 {
+    color: rgba(255,255,255,1);
+    position: center;
+    top: 400px;
+    font-family: League Spartan;
+    font-size: 15px;
+    opacity: 1;
+    text-align: center;
+    margin-top: 50px;
+}
+.footer_style {
+    font-family: League Spartan;
+    font-size: 40px;
+    position: absolute;
+    top: 980px;
+    left: 50%;
+}
+.camera_icon {
+    width: 50px;
+    position: absolute;
+    top: 381px;
+    left: 250px;
+}
+.v157_14 {
+    width: 268px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 505px;
+    left: 37px;
+    font-family: League Spartan;
+    font-size: 15px;
+    opacity: 1;
+    text-align: left;
+}
+.v158_99 {
+    width: 134px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 1034px;
+    left: 42px;
+    font-family: League Spartan;
+    font-weight: Medium;
+    font-size: 15px;
+    opacity: 1;
+    text-align: left;
+}
+.v157_10 {
+    width: 208px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 586px;
+    left: 42px;
+    font-family: Libre Baskerville;
+    font-weight: Italic;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+.v157_17 {
+    width: 35px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 555px;
+    left: 37px;
+    font-family: League Spartan;
+    font-weight: Bold;
+    font-size: 15px;
+    opacity: 1;
+    text-align: left;
+}
+.v158_97 {
+    width: 200px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 607px;
+    left: 42px;
+    font-family: League Spartan;
+    font-size: 8px;
+    opacity: 1;
+    text-align: left;
+}
+.v158_98 {
+    width: 39px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 644px;
+    left: 42px;
+    font-family: League Spartan;
+    font-size: 8px;
+    opacity: 1;
+    text-align: left;
+}
+.name {
+    color: #fff;
+}
+.v157_19 {
+    width: 75px;
+    /* background: url("../images/v157_19.jpg"); */
+    background-color: black;
+    opacity: 1;
+    position: absolute;
+    top: 578px;
+    left: 0px;
+    border: 1px solid rgba(255,255,255,1);
+}
+.v158_94 {
+    width: 4px;
+    height: 4px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 594px;
+    left: 31px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow: hidden;
+}
+.v158_95 {
+    width: 190px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 623px;
+    left: 42px;
+    font-family: Libre Baskerville;
+    font-weight: Italic;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+.v158_96 {
+    width: 4px;
+    height: 4px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 631px;
+    left: 31px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow: hidden;
+}
+.v175_129 {
+    width: 31px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 681px;
+    left: 42px;
+    font-family: League Spartan;
+    font-size: 8px;
+    opacity: 1;
+    text-align: left;
+}
+.v175_130 {
+    width: 190px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 660px;
+    left: 42px;
+    font-family: Libre Baskerville;
+    font-weight: Italic;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+.v175_131 {
+    width: 4px;
+    height: 4px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 668px;
+    left: 31px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow: hidden;
+}
+.layered_gallery {
+    background-color: yellow;
+
+}
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    font-size: 18px;
+    height: auto;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 30px;
+}
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50%; /* Optional: adjust the height to your preference */
+}
+
+/* Set the Swiper container (div.mySwiper) to be centered within the parent container */
+.mySwiper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Optional: adjust the width and height of the Swiper container to your preference */
+.mySwiper {
+    width: 80%; /* Change to desired width */
+    height: 80%; /* Change to desired height */
+}
+
+/* Optional: adjust the width and height of the Swiper slides to your preference */
+.swiper-slide {
+    width: 100%; /* Change to desired width */
+    height: 100%; /* Change to desired height */
+}
