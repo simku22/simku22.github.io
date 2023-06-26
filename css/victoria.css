@@ -36,7 +36,7 @@ body {
     opacity: 1;
     text-align: left;
     text-shadow: 0px 2px, 2px 0px, 2px 2px;
-    animation: floatIn 0.75s ease-out;
+    /* animation: floatIn 0.75s ease-out; */
 }
 .v175_45 {
   width: 51px;
@@ -47,5 +47,10 @@ body {
   top: 30px;
   left: 31px;
   border-radius: 50%;
-  animation: floatIn 0.75s ease-out;
+  /* animation: floatIn 0.75s ease-out; */
+}
+.v175_53 {
+  position: absolute;
+  left: 42px;
+  top: 42px;
 }
