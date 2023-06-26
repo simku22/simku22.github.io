@@ -4,6 +4,9 @@
 body {
   font-size: 14px;
 }
+img {
+  pointer-events: none;
+}
 @keyframes floatIn {
   from {
   opacity: 0;
